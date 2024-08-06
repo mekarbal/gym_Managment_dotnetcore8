@@ -1,0 +1,67 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode
+.idea
+.vscode
+*.sln.ide
+
+# Mono auto generated files
+mono_crash.*
+
+# Visual Studio
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Folders
+## Ignore .NET Core directory
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcut files
+*.lnk
+
+# Local History for JetBrains IDEs
+.idea/.idea/*/workspace.xml
+.idea/.idea/*/tasks.xml
+.idea/.idea/*/dictionaries
+.idea/.idea/*/shelf
+.idea/.idea/*/compiler.xml
+.idea/.idea/*/modules.xml
+.idea/.idea/*/encodings.xml
+.idea/.idea/*/sqlDataSources.xml
+.idea/.idea/*/dataSources/
+.idea/.idea/*/dataSources.local/
+.idea/.idea/*/dataSources.xml
+.idea/.idea/*/dataSources.local.xml
+.idea/.idea/*/shelvedChanges
+.idea/.idea/*/contentModel.xml
+.idea/.idea/*/tables.xml
+.idea/.idea/*/focus.xml
+
+# Rider
+.idea/
