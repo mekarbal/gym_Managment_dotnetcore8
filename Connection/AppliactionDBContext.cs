@@ -13,6 +13,8 @@ namespace GymManagment.Connection
            : base(options)
         {
         }
+        
+        
 
     }
 }

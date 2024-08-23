@@ -21,5 +21,9 @@ namespace GymManagment.Models
 
         [Required]
         public Role Role { get; set; }
+        
+        public string Image { get; set; }
+        
+        
     }
 }

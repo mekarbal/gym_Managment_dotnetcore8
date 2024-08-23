@@ -17,6 +17,9 @@ namespace GymManagment.Models
         public DateTime Date { get; set; }
 
         public DateTime ExpireAt { get; set; }
+        
+        public User User { get; set; }
+
 
     }
 }

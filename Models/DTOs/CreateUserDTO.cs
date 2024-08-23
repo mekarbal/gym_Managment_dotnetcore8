@@ -17,5 +17,8 @@ namespace GymManagment.Models.DTOs
 
         [Required]
         public Role Role { get; set; } = 0;
+        
+        public IFormFile Image { get; set; }
+
     }
 }
