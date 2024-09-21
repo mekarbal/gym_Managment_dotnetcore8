@@ -1,5 +1,6 @@
 ﻿using GymManagment.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure.Internal;
 
 namespace GymManagment.Connection
 {
